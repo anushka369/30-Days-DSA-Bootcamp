@@ -27,19 +27,25 @@ The repository is organized by day, mirroring the structure of the bootcamp. Eac
 ```
 root
 │
-├── Day-1/
-│   ├── ProblemName.ext
-│   └── . . . 
+├── DAY-1/
+│ ├── Problem-Name/
+│ │ ├── README.md
+│ │ └── solution.ext
+| └── . . .
 |
-├── Day-2/
-|   ├── ProblemName.ext
-│   └── . . .
+├── DAY-2/
+│ ├── Problem-Name/
+│ │ ├── README.md
+│ │ └── solution.ext
+| └── . . .
 |
 ├── . . .
 |
-├── Day-30/
-│   ├── ProblemName.ext
-│   └── . . . 
+├── DAY-30/
+│ ├── Problem-Name/
+│ │ ├── README.md
+│ │ └── solution.ext
+| └── . . .
 |
 └── README.md
 ```
