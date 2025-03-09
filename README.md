@@ -1,6 +1,6 @@
 # 30 Days DSA Bootcamp 🚀
 
-This repository contains my solutions from the **"30 Days DSA Bootcamp"** offered by Unstop.  The bootcamp focuses on building a strong foundation in **Data Structures and Algorithms (DSA)** to improve problem-solving skills for coding interviews and competitive programming. Covers fundamental data structures (arrays, linked lists, trees, graphs, etc.) and algorithms (searching, sorting, dynamic programming, etc.) with daily challenges, contests, and learning resources.
+This repository contains my solutions from the [**"30 Days DSA Bootcamp"**](https://unstop.com/practice/company-preparation/30-days-dsa-bootcamp/) offered by Unstop. It focuses on building a strong foundation in **Data Structures and Algorithms (DSA)** to improve problem-solving skills for coding interviews and competitive programming. Covers fundamental data structures (arrays, linked lists, trees, graphs, etc.) and algorithms (searching, sorting, dynamic programming, etc.) with daily challenges, contests, and learning resources.
 
 ---
 
