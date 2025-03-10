@@ -70,6 +70,6 @@ For each peak:
 
 Sum of all wish values = 1 + 3 + 3 + 4 + 4 = 15
 
-## Link to the problem
+## Problem Link
 
 [Click Here](https://unstop.com/courses/unstop-practice-interview-pep/30-days-dsa-bootcamp/day-arrays-operations-37726/coding-question-37728/)
