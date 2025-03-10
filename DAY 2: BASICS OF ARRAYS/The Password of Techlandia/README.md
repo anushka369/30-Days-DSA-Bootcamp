@@ -53,6 +53,6 @@ The frequencies of elements are 1:2, 2:2, and 3:1. <br>
 The number 3 appears an odd number of times, violating the frequency condition.
 The most frequent element is 1 (or 2 since both appear twice, but the smallest is selected).
 
-## Link to the problem
+## Problem Link
 
 [Click Here](https://unstop.com/courses/unstop-practice-interview-pep/30-days-dsa-bootcamp/day-basics-of-arrays-37720/coding-question-37725/)
