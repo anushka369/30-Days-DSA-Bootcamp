@@ -59,6 +59,6 @@ The minimum moves required:
   
 Total moves = 5
 
-## Link to the problem
+## Problem Link
 
 [Click Here](https://unstop.com/courses/unstop-practice-interview-pep/30-days-dsa-bootcamp/day-arrays-operations-37726/coding-question-37729/)
