@@ -43,6 +43,6 @@ If we try to make the largest number possible using these two numbers, we get 21
 The two minimum numbers out of the given array are 6 and 7. <br>
 If we try to make the largest number possible using these two numbers, we get 76.
 
-## Link to the problem
+## Problem Link
 
 [Click Here](https://unstop.com/practice/company-preparation/30-days-dsa-bootcamp/day-arrays-operations-37726/coding-question-37727/)
