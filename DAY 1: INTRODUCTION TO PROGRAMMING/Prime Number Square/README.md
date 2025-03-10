@@ -31,5 +31,6 @@ Output the square of the prime number at the N-th position in the sequence.
 
 - Explanation : The Nth term is 25. It is one-based indexing, and by observing the pattern of the sequence of prime numbers, we have to calculate the 3rd term. So, the 3rd number is 5, and its square is 5^2 is 25. 
 
-## Link to the problem
+## Problem Link
+
 [Click Here](https://unstop.com/practice/company-preparation/30-days-dsa-bootcamp/day-introduction-to-programming-37651/coding-question-37719)
