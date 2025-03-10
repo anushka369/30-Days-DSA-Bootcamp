@@ -1,6 +1,6 @@
 ## Problem Statement
 
-King Luther has an army with N soldiers, each with an ID between 1 and N. The king wants to know how many soldiers in his army are "brave." 
+King Luther has an army with N soldiers, each with an ID between 1 and N. The king wants to know how many soldiers in his army are "brave". 
 A soldier is considered "brave" if their ID has exactly two factors (or Divisors) and is not a perfect square.
 Since King Luther is busy with his duties, he needs your help to count the number of "brave" soldiers in his army. 
 Your task is to count how many soldiers have "brave" IDs according to the criteria.
@@ -33,6 +33,6 @@ Print the count of brave soldiers in the army.
   2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97 <br>
   It can be shown no number other than these follows the brave criteria.
 
-## Link to the problem
+## Problem Link
 
 [Click Here](https://unstop.com/courses/unstop-practice-interview-pep/30-days-dsa-bootcamp/day-introduction-to-programming-37651/coding-question-37724/)
