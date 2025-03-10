@@ -52,6 +52,6 @@ The count is 10.
 ### Explanation
 No valid pair found.
 
-## Link to the problem
+## Problem Link
 
 [Click Here](https://unstop.com/courses/unstop-practice-interview-pep/30-days-dsa-bootcamp/day-basics-of-arrays-37720/coding-question-37723/)
