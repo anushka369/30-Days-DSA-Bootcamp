@@ -42,6 +42,6 @@ The second line contains 'n' space-separated integers representing the values of
   As values consistently alternate between increasing and decreasing.
   <br> So the answer is 1.
 
-## Link to the problem
+## Problem Link
 
 [Click here](https://unstop.com/courses/unstop-practice-interview-pep/30-days-dsa-bootcamp/day-basics-of-arrays-37720/coding-question-37722/)
